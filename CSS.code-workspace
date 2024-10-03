@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../CSS"
+		},
+		{
+			"path": "../PeixariaDoMatheus-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sistema-loja"
+	}
+}

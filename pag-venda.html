@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Venda</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <center><div>
+        <a href="index.html" id="ç">Página Inicial</a>
+        <a href="ctrl-estoque.html" id="ahs">Controle de Estoque</a>
+        <a href="add-produto.html" id="asd">Adicionar Produto</a>
+        <a href="funcionarios.html" id="de">Funcionários</a>
+        <a href="pag-venda.html" id="pagVenda">Página de venda</a>
+        <a href="pag-historico-venda.html" id="pagHistorico">Página de historico de venda</a>
+    </div>
+
+    <div id="venda">
+        <h1 id="titulo-venda">Venda de Produtos</h1>
+        <form action="pag-historico-venda.html" method="GET" id="form-venda">
+            <label id="corrr" for="">Produtos</label>
+            <select name="" id="">
+                <option value="">Bacalhau</option>
+                <option value="">Baiacu</option>
+                <option value="">Caviar</option>
+                <option value="">Pepino do mar</option>
+                <option value="">sardinha</option>
+            </select><br>
+
+
+           <label id="cor" for="quantidade">Quantidade:</label>
+            <input type="number" id="quantidade" name="quantidade" required><br>
+
+            
+            <label id="corr">Forma de Pagamento:</label>
+            <label><input type="radio" name="pagamento" value="dinheiro"> Dinheiro</label>
+            <label><input type="radio" name="pagamento" value="cartao"> Cartão</label><br>
+
+            <button type="submit" id="botao-adicionar">Adicionar Produto</button>
+        </form>
+
+        <h2 id="produtosA">Produtos na Venda</h2>
+        <ul id="listaPprodutos">
+           
+        </ul>
+    </div></center>
+</body>
+</html>

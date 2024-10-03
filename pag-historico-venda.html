@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <center> <div>
+        <a href="index.html" id="ç">Página Inicial</a>
+        <a href="ctrl-estoque.html" id="ahs">Controle de Estoque</a>
+        <a href="add-produto.html" id="asd">Adicionar Produto</a>
+        <a href="funcionarios.html" id="de">Funcionários</a>
+        <a href="pag-venda.html" id="pagVenda">Página de venda</a>
+        <a href="pag-historico-venda.html" id="pagHistorico">Página de historico de venda</a>
+    </div>
+
+    <div class="container" id="historico">
+        <h1 id="tHistorico" >  Histórico de Vendas  </h1><br>
+        <table>
+            <tr>
+                <th id="Venda">01/01/23 - Miguel - Produto: Bacalhau-1 unidade-R$ 149,90</th>
+            </tr>
+            <tr>
+                <th id="Vendaa">18/09/22 - Otto - Produto: Sardinha- 3 unidade-R$ 51.96</th>
+            </tr>
+            <tr>
+                <th id="Vendaaa">28/05/21 - Caio - Produto: Caviar- 2 unidade-R$ R$ 400 mil</th>
+            </tr>
+        </table><br>
+        <label id="filtroData">  Filtrar por Data:  </label>
+        <input type="text" id="filtro-data" placeholder="Ex: 1 de Outubro de 2024">
+        <button id="botao-filtrar">Filtrar</button><br>
+
+        <h2 id="vendasRalizadas">Vendas Realizadas</h2>
+        <ul id="lista-vendas">
+            
+        </ul>
+    </div></center>
+</body>
+</html>

@@ -1,0 +1,311 @@
+#tituloLoja {
+    background-color:rgb(173, 18, 18);
+    color:white;
+    display: inline-block;
+}
+
+#cardapio{
+    color:rgb(207, 31, 31);
+}
+
+
+#f {
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+#d {
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+#p {
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+#q {
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+
+#p{
+    color:rgb(207, 31, 31)
+}
+
+
+
+#i{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc; 
+}
+#b{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+#r{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+#s{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+
+
+
+
+#Baiacu{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+#doze{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+#tres{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+#fotoB{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+
+
+#fotoC{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+#caviar{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+#duzentos{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+#dois{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+
+
+#pepinoDoMar{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+#pepino{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+#mil{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+#dez{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+
+
+#sardi{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+#sardinha{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+#vinteECinco{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;;
+}
+#vinte{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+
+
+
+#tudo{
+    color:rgb(207, 31, 31);
+    border: 1px solid #ccc;
+}
+
+#funcionarios{
+    color:rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+    display: inline-block;
+    border: 1px solid #ccc;
+}
+#fun{
+    color: rgb(173, 18, 18);
+}
+#redes{
+    color: rgb(173, 18, 18);
+}
+
+body{
+    background: rgb(99, 25, 25, 0.918);
+}
+
+#qd1{
+    background-color: rgba(99, 25, 25, 0.918);
+}
+
+#ç{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+#ahs{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+#asd{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+#de{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+
+
+#linkA{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+#linkB{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+#linkC{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+#linkD{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+
+
+
+
+#LinkA{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+#LinkB{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+#LinkC{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+#LinkD{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+
+
+
+
+#LInkA{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+#LInkB{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+#LInkC{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+#LInkD{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+
+#tTudo, #ttTudo, #tttTudo{
+    color:rgb(255, 255, 255);
+}
+
+
+
+#texto{
+    color:rgb(255, 255, 255);
+}
+#comer{
+    color: red;
+}
+
+#Loja{
+    color:rgb(255, 0, 0);
+}
+
+
+#pagVenda{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+
+#pagHistorico{
+    color: rgb(255, 255, 255);
+    background-color: rgb(173, 18, 18);
+}
+
+#titulo-venda{
+    color:rgb(255, 255, 255);
+    background-color: rgb(170, 19, 19);
+    display: inline-block;
+}
+
+#cor{
+    color:rgb(255, 255, 255);
+    background-color: rgb(170, 19, 19);
+}
+
+#corr{
+    color:rgb(255, 255, 255);
+    background-color: rgb(170, 19, 19);
+}
+
+#corrr{
+    color:rgb(255, 255, 255);
+    background-color: rgb(170, 19, 19);
+}
+
+#produtosA{
+    color:rgb(255, 255, 255);
+    background-color: rgb(170, 19, 19);
+    display: inline-block;
+}
+
+#tHistorico{
+    color:rgb(255, 255, 255);
+    background-color: rgb(170, 19, 19);
+    display: inline-block;
+}
+
+
+
+
+#filtroData{
+    color:rgb(255, 255, 255);
+    background-color: rgb(170, 19, 19);
+    display: inline-block;
+}
+
+
+#vendasRalizadas{
+    color:rgb(255, 255, 255);
+    background-color: rgb(170, 19, 19);
+    display: inline-block;
+}
+
+
+#Venda, #Vendaa, #Vendaaa{
+    color:rgb(255, 255, 255);
+    background-color: rgb(144, 67, 67);
+    display: inline-block;
+}
